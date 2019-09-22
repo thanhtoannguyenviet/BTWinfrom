@@ -1,0 +1,6 @@
+D:\LapTrinhWinDows\Lab01\Lab01-02\bin\Debug\Lab01-02.exe.config
+D:\LapTrinhWinDows\Lab01\Lab01-02\bin\Debug\Lab01-02.exe
+D:\LapTrinhWinDows\Lab01\Lab01-02\bin\Debug\Lab01-02.pdb
+D:\LapTrinhWinDows\Lab01\Lab01-02\obj\Debug\Lab01-02.exe
+D:\LapTrinhWinDows\Lab01\Lab01-02\obj\Debug\Lab01-02.pdb
+D:\LapTrinhWinDows\Lab01\Lab01-02\obj\Debug\Lab01-02.csprojResolveAssemblyReference.cache

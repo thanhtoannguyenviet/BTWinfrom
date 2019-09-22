@@ -1,0 +1,11 @@
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\bin\Debug\netcoreapp2.2\Lab01-03.deps.json
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\bin\Debug\netcoreapp2.2\Lab01-03.runtimeconfig.json
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\bin\Debug\netcoreapp2.2\Lab01-03.runtimeconfig.dev.json
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\bin\Debug\netcoreapp2.2\Lab01-03.dll
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\bin\Debug\netcoreapp2.2\Lab01-03.pdb
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\obj\Debug\netcoreapp2.2\Lab01-03.csprojAssemblyReference.cache
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\obj\Debug\netcoreapp2.2\Lab01-03.csproj.CoreCompileInputs.cache
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\obj\Debug\netcoreapp2.2\Lab01-03.AssemblyInfoInputs.cache
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\obj\Debug\netcoreapp2.2\Lab01-03.AssemblyInfo.cs
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\obj\Debug\netcoreapp2.2\Lab01-03.dll
+C:\Users\Shio\source\repos\LapTrinhWinDows\Lab01\Lab01-03\obj\Debug\netcoreapp2.2\Lab01-03.pdb
